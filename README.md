@@ -1,9 +1,9 @@
 # NFT Collection Deployment and Transfer 
-## Goerli to Mumbai Bridge
+> Goerli to Mumbai Bridge
 
 ## Description
 
-This project involves the deployment of a 5-item NFT collection using Bing AI-generated images. The NFTs are stored on IPFS using pinata.cloud, and an ERC721A contract is deployed to the Goerli Ethereum Testnet. The contract includes functionalities such as minting, transferring, and mapping the NFTs. The NFT collection is further mapped using the Polygon network's token mapper for visualization.
+This project involves the deployment of a 5-item NFT collection using Bing AI-generated images. The NFTs are stored on IPFS using pinata.cloud, and an ERC721A contract is deployed to the Goerli Ethereum Testnet. The contract includes functionalities such as minting, transferring, and mapping the NFTs.
 
 ## Getting Started
 
@@ -72,7 +72,7 @@ string public prompt = "A Scary Person Illustrative style  Potrait , Fire the Ba
 
 ### Check Balance 
 1. Edit the `getBalance.js` script with required details.
-2. Run the script: `npx hardhat run scripts/getBalance.js --network goerli`
+2. Run the script: `npx hardhat run scripts/getBalance.js --network mumbai`
 
 ## Authors
 
