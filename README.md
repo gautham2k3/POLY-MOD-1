@@ -86,4 +86,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Help
 
-For common issues, refer to the troubleshooting section in the official Hardhat documentation or Feel free to reach out to me via email: [22BCT10003@cuchd.in](22bct10003@cuchd.in)
+For common issues, refer to the troubleshooting section in the official Hardhat documentation or Feel free to reach out to me via email: 22BCT10003@cuchd.in
