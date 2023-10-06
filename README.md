@@ -1,5 +1,7 @@
 # NFT Collection Deployment and Transfer 
 > Goerli to Mumbai Bridge
+> Can Be Bridged between ETHERIUM and POLYGON Blockchain
+> Used ERC721A for less Gas fee 
 
 ## Description
 
