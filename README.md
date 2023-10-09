@@ -1,7 +1,9 @@
 # NFT Collection Deployment and Transfer 
 > Goerli to Mumbai Bridge
+
 > Can Be Bridged between ETHERIUM and POLYGON Blockchain
-> Used ERC721A for less Gas fee 
+
+> Used ERC721A for less Gas consumption 
 
 ## Description
 
@@ -21,7 +23,13 @@ This project involves the deployment of a 5-item NFT collection using Bing AI-ge
 1. Clone this repository: `git clone https://github.com/gautham2k3/POLY-MOD-1.git`
 2. Navigate to the project folder: `cd POLY-MOD-1`
 3. Install dependencies: `npm install`
-
+### Wallet Config
+- Network name : Goerli
+- New RPC URL : https://rpc.ankr.com/eth_goerli
+- Chain ID : 5
+- Currency Symbo : ETH
+- Block Explorer URL : https://goerli.etherscan.io
+> Block Explorer URL is Optional
 ### Contract Name and Symbol
 
 ```solidity
@@ -53,7 +61,7 @@ The `baseUrl` variable defines the base URL for the NFTs' metadata. This URL wil
 ```solidity
 string public prompt = "A Scary Person Illustrative style  Potrait , Fire the Background ,Lokking in Fire ";
 ```
-
+> Prompt can be anything based your Intrest 
 
 ### Deploy ERC721A Contract to Goerli Testnet
 
@@ -79,7 +87,7 @@ string public prompt = "A Scary Person Illustrative style  Potrait , Fire the Ba
 ## Authors
 
 - B Gautham Naidu
-- 22BCT10003@cuchd.in
+- bgautham27@gmail.com
 - @gautham2k3: [GitHub Profile](https://github.com/gautham2k3)
 
 ## License
@@ -89,4 +97,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Help
 
-For common issues, refer to the troubleshooting section in the official Hardhat documentation or Feel free to reach out to me via email: 22BCT10003@cuchd.in
+For common issues, refer to the troubleshooting section in the official Hardhat documentation or Feel free to reach out to me via email.
