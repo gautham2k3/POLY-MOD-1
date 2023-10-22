@@ -83,7 +83,9 @@ string public prompt = "A Scary Person Illustrative style  Potrait , Fire the Ba
 ### Check Balance 
 1. Edit the `getBalance.js` script with required details.
 2. Run the script: `npx hardhat run scripts/getBalance.js --network mumbai`
-
+## Explorer Used
+- [Goerli Testnet Explorer](https://goerli.etherscan.io)
+- [Polygon PoS Chain Testnet Explorer](https://mumbai.polygonscan.com)
 ## Authors
 
 - B Gautham Naidu
