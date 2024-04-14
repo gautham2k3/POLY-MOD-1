@@ -1,4 +1,8 @@
 # NFT Collection Deployment and Transfer 
+## >> Important Update << 
+### 🔴 ETH Goerli Network Shutdown (April 2024)
+### 🔴 Polygon Mumbai Shutdown (April 2024)
+### 🔴 This Project Wont Work until FxRoot Supports in Sepolia and Amoy Testnets 
 > Goerli to Mumbai Bridge
 
 > Can Be Bridged between ETHERIUM and POLYGON Blockchain
